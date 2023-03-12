@@ -1,6 +1,5 @@
 //
 //  GameViewController.swift
-//  Sleepy
 //
 //  Created by Valerie on 12.03.23.
 //
